@@ -1,6 +1,19 @@
-### Hello there 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+# Talha Çelik
 
+Backend and full-stack engineer. I build AI tools, cloud backends, and billing systems, from the database to the desktop app.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atalha74&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Currently
+
+**Testudo**, a native Mac app that lets you ask GPT, Claude, Gemini and Perplexity in one branching conversation, then merge the answers worth keeping. I co-founded it and built its AWS backend, usage metering, and encrypted bring-your-own-key storage.
+Case study: [testudo-case-study](https://github.com/atalha74/testudo-case-study)
+
+## Earlier
+
+- **Cheese**: CTO and co-founder. Cross-platform app with real-time location matching and payment integration.
+- **Virasoft**: software engineering intern, React and Node.js services on PostgreSQL and Docker.
+
+## Stack
+
+Node.js, TypeScript, Next.js, PostgreSQL, Prisma, AWS (ECS, RDS, Cognito, CDK), Flutter, Tauri.
+
+Open to remote backend and full-stack roles, and to short contract work.
