@@ -15,5 +15,3 @@ Case study: [testudo-case-study](https://github.com/atalha74/testudo-case-study)
 ## Stack
 
 Node.js, TypeScript, Next.js, PostgreSQL, Prisma, AWS (ECS, RDS, Cognito, CDK), Flutter, Tauri.
-
-Open to remote backend and full-stack roles, and to short contract work.
